@@ -17,19 +17,19 @@ HI:
     notify_ban_headline: "उपयोगकर्ता को बैन के बारे में सूचित करें"
     notify_ban_description: "यह ईमेल द्वारा उपयोगकर्ता को सूचित कर देगा की वे समुदाय से बैन कर दिए गए हैं."
     email_message_ban: "प्रिय {0},\n\nकोई जिसके पास आपके खाते तक पहुँच थी हमारे समुदाय के दिशानिर्देशों का उल्लंघन किया है. फलस्वरूप, आपके खाते को बैन कर दिया गया है. अब आप टिपण्णी करने, पसंद करने, या टिपण्णी पर रिपोर्ट करने में सक्षम नहीं होंगे. यदि आपको लगता है कि यह किसी गलती के कारण हुयी है, कृपया हमारे समुदाय टीम से संपर्क करें."
-  bio_offensive: "यह बायो bio is offensive"
-  cancel: "Cancel"
+  bio_offensive: "यह बायो आपत्तिजनक है"
+  cancel: "रद्द"
   confirm_email:
-    click_to_confirm: "Click below to confirm your email address"
-    confirm: "Confirm"
+    click_to_confirm: "अपने ईमेल पते कि पुष्टि के लिए निचे क्लिक करें"
+    confirm: "पुष्टि करें"
   password_reset:
-    mail_sent: 'If you have a registered account, a password reset link was sent to that email'
-    set_new_password: "Change Your Password"
-    new_password: "New Password"
-    new_password_help: "Password must be at least 8 characters"
-    confirm_new_password: "Confirm New Password"
-    change_password: "Change Password"
-  characters_remaining: "characters remaining"
+    mail_sent: 'यदि आपके पास एक पंजीकृत खाता है, एक पासवर्ड रिसेट लिंक उस ईमेल पर भेजा गया था'
+    set_new_password: "अपना पासवर्ड बदलें"
+    new_password: "नया पासवर्ड"
+    new_password_help: "पासवर्ड कम से कम 8 वर्णों का होना चाहिए"
+    confirm_new_password: "नये पासवर्ड की पुष्टि करें"
+    change_password: "पासवर्ड बदलें"
+  characters_remaining: "शेष वर्ण"
   comment:
     anon: "Anonymous"
     undo_reject: "Undo"
